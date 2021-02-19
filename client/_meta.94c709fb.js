@@ -1,1 +1,0 @@
-var t={email:"gtibo.contact@gmail.com",external:[{title:"Tumblr",src:"https://gtibo.tumblr.com/"},{title:"Codepen",src:"https://codepen.io/Gthibaud/"},{title:"Gogs",src:"https://esadhar.net/gogs/thibaud_goiffon/"}]};export{t as m};
