@@ -1,9 +1,11 @@
 body {
-	font-size: clamp(1rem, 3vmin, 2rem);
+	font-size: clamp(1rem, 3vmin, 1.5rem);
 	margin: 0;
 	font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-	line-height: 1.6;
+	line-height: 1.4;
 	color:#040608;
+	background-color: #F8F9F9;
+	overflow: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -11,10 +13,15 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.2;
 }
 
-h2{
-	margin-bottom: 2em;
+h3{
+	font-size: 0.8em;
+	text-transform: uppercase;
+	font-weight: 800;
 }
 
+h4{
+	font-size: 0.7em;
+}
 
 a {
 	color: inherit;
